@@ -6,7 +6,7 @@ Proyecto Java puro para practicar logica con matrices en consola.
 Simular una sala de cine y permitir buscar asientos consecutivos disponibles.
 
 ## Funcionalidades
-- Generacion de sala de 5x8 asientos.
+- Generacion de sala de 5x8 asientos(por ahora estandar).
 - Venta aleatoria inicial de asientos.
 - Visualizacion de asientos libres (`L`) y ocupados (`O`).
 - Busqueda de asientos consecutivos en una misma fila.
@@ -25,4 +25,4 @@ java -cp out cine.Cine
 ```
 
 ## Estado
-Version base para portafolio. La evolucion posterior (POO avanzada y Spring Boot) se puede construir a partir de este punto en el historial de GitHub.
+Version base para portafolio. La evolucion posterior (POO avanzada y Spring Boot) se puede construir a partir de este punto subiendo la evolucion de ese proyecto conforme va evolucionando.
