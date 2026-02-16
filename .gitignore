@@ -1,0 +1,41 @@
+# Archivos compilados
+*.class
+*.jar
+*.war
+*.ear
+
+# Dependencias
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+dependency-reduced-pom.xml
+
+# IDE - IntelliJ
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# IDE - Eclipse
+.settings/
+.project
+.classpath
+.metadata
+bin/
+
+# IDE - NetBeans
+nb-configuration.xml
+nbactions.xml
+
+# IDE - VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
